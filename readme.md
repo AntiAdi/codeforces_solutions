@@ -6,7 +6,7 @@ Hello and welcome to my Codeforces solutions for questions in C language.
         
         Rating 800 : 112A, 158A, 231A, 236A, 263A, 266A, 281A, 282A, 339A, 4A, 50A, 546A, 59A, 617A, 71A, 791A, 4A, 50A, 158A, 231A, 236A, 282A, 750A, 977A, 1294A, 1915A.
         
-        Rating 1000 : 2005B1, 1, 118A.
+        Rating 1000 :  1, 118A.
         
 
 2. I also leave lots of comments while writing code, So everything is fully packed into the source code itself.
