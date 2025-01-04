@@ -1,4 +1,5 @@
 //Aadityaraj Kaushal going God Mode here </>
+//https://codeforces.com/problemset/problem/96/A
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -20,8 +21,8 @@ int main(){
     }
 
 
-    for(int i=0 ; i<strlen(string)-7 ; i++){
-        for(int j=i ; j<= strlen(string) ; j++){
+    for(int i=0 ; i<=strlen(string)-7 ; i++){
+        for(int j=i ; j<(i+7) ; j++){
             if((string[j]) != string[i]){
                 flag=0;
                 break;
