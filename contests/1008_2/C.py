@@ -1,6 +1,6 @@
 t = int(input())
 n = []
-bi = [] #bi is string !
+bi = [] 
 
 for i in range(t) :
     n.append(int(input()))

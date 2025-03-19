@@ -1,4 +1,4 @@
-import random
+ouch import random
 
 
 t = int(input())
